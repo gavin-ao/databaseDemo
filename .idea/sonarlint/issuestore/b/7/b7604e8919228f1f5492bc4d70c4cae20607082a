@@ -1,0 +1,21 @@
+
+qsquid:S3008"URename this field "mysql_open" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò€ÜÇ8œôª£ÿ/
+ˆ"squid:ClassVariableVisibilityCheck"UMake mysql_url a static final constant or non-public and provide accessors if needed.(µâ¹¡8œôª£ÿ/
+Ksquid:S1444"/Make this "public static mysql_url" field final(µâ¹¡8œôª£ÿ/
+zsquid:S3008"YRename this field "mysql_username" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôÿ’…ıÿÿÿÿ8œôª£ÿ/
+Ssquid:S1444"2Make this "public static mysql_driver" field final(ÙØ“éùÿÿÿÿ8œôª£ÿ/
+’"squid:ClassVariableVisibilityCheck"ZMake mysql_password a static final constant or non-public and provide accessors if needed.(ß¡ìûÿÿÿÿ8œôª£ÿ/
+Usquid:S1444"4Make this "public static mysql_password" field final(ß¡ìûÿÿÿÿ8œôª£ÿ/
+xsquid:S3008"WRename this field "mysql_driver" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙØ“éùÿÿÿÿ8œôª£ÿ/
+vsquid:S2068"U'password' detected in this expression, review this potentially hardcoded credential.(ß¡ìûÿÿÿÿ8œôª£ÿ/
+[squid:S1118":Add a private constructor to hide the implicit public one.(» ©¶ùÿÿÿÿ8œôª£ÿ/
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8œôª£ÿ/
+zsquid:S3008"YRename this field "mysql_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¡ìûÿÿÿÿ8œôª£ÿ/
+’"squid:ClassVariableVisibilityCheck"ZMake mysql_username a static final constant or non-public and provide accessors if needed.(Ôÿ’…ıÿÿÿÿ8œôª£ÿ/
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8œôª£ÿ/
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8œôª£ÿ/
+Lsquid:S1444"0Make this "public static mysql_open" field final(ò€ÜÇ8œôª£ÿ/
+Usquid:S1444"4Make this "public static mysql_username" field final(Ôÿ’…ıÿÿÿÿ8œôª£ÿ/
+psquid:S3008"TRename this field "mysql_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µâ¹¡8œôª£ÿ/
+‰"squid:ClassVariableVisibilityCheck"VMake mysql_open a static final constant or non-public and provide accessors if needed.(ò€ÜÇ8œôª£ÿ/
+"squid:ClassVariableVisibilityCheck"XMake mysql_driver a static final constant or non-public and provide accessors if needed.(ÙØ“éùÿÿÿÿ8œôª£ÿ/

@@ -1,0 +1,10 @@
+
+Isquid:S1481"(Remove this unused "url" local variable.(ãÿÆãÿÿÿÿÿ8ôƒá£ÿ/
+hsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ý¢²ôøÿÿÿÿ8³¾ê£ÿ/
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8óµé£ÿ/
+psquid:S2068"U'Password' detected in this expression, review this potentially hardcoded credential.(¡Ë‘8±ŽÜ£ÿ/
+Usquid:S1481"4Remove this unused "driverClassName" local variable.(Œû¾Êþÿÿÿÿ8·°á£ÿ/
+Msquid:S1481"2Remove this unused "mysqlPassword" local variable.(¡Ë‘8ôƒá£ÿ/
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ÁÜô£ÿ/
+Ssquid:S1481"2Remove this unused "mysqlUsername" local variable.(»‚°Ïþÿÿÿÿ8ôƒá£ÿ/

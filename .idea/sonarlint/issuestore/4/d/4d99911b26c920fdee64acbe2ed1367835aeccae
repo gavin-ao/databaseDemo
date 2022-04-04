@@ -1,0 +1,16 @@
+
+Dsquid:S1148"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8Ìì³£ÿ/
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ó³¯ üÿÿÿÿ8Ìì³£ÿ/
+ƒsquid:S4087"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(¥Ö©äûÿÿÿÿ8Ìì³£ÿ/
+qsquid:S2068"U'password' detected in this expression, review this potentially hardcoded credential.(àƒ8Ìì³£ÿ/
+wsquid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(”¦áæ8Ìì³£ÿ/
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àúé¼úÿÿÿÿ8Ìì³£ÿ/
+ssquid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.(²Œ¸óıÿÿÿÿ8Ìì³£ÿ/
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒ­Ãªøÿÿÿÿ8µÚÍ£ÿ/
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(›óâÉùÿÿÿÿ8Ìì³£ÿ/
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(û™½ä8ŠÊÏ£ÿ/
+Dsquid:S1148"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8Ìì³£ÿ/
